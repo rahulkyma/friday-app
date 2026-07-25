@@ -1,0 +1,23 @@
+# Instagram AI Automation - Python Dependencies
+
+# Core Dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+openai==1.3.0
+
+# Image Processing
+Pillow==10.0.0
+
+# Scheduling
+schedule==1.2.0
+
+# API & HTTP
+urllib3==2.0.4
+
+# Utilities
+python-dateutil==2.8.2
+
+# Development (optional)
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
